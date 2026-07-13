@@ -37,11 +37,11 @@ dom-todo-app/
 
 ## 🌐 Live Demo
 
-Coming Soon...
+https://himanshuchauhan-dev.github.io/dom-todo-app/
 
 
 ## 👨‍💻 Author
 
-Himanshu Chauhan
+*Himanshu Chauhan*
 
 GitHub: https://github.com/himanshuchauhan-dev
